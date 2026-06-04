@@ -1,12 +1,18 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Balachandar%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS%20Certified%20Cloud%20Engineer&descAlignY=62&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Balachandar%20M&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AWS%20Certified%20Cloud%20Engineer%20%E2%98%81%EF%B8%8F&descAlignY=60&descSize=22)
 
-<div align="center">
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Balachandar+%F0%9F%91%8B;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Cloud+Infrastructure+%26+Security+Engineer;Python+%7C+Boto3+%7C+Bash+%7C+Linux+Enthusiast;Building+Secure+%26+Scalable+Cloud+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Balachandar+%F0%9F%91%8B;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Cloud+Infrastructure+%26+Automation+Engineer;Python+%7C+Boto3+%7C+Bash+%7C+Linux+Enthusiast)](https://readme-typing-svg.demolab.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mubalachandar&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/mubalachandar)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/m-balachandar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://balachandar.tech"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:balachandarm.works@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/mubalachandar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mubalachandar&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
@@ -16,27 +22,31 @@
 class Balachandar:
     def __init__(self):
         self.name         = "Balachandar M"
-        self.location     = "Tenkasi, Tamil Nadu, India 🇮🇳"
+        self.location     = "📍 Tenkasi, Tamil Nadu, India"
         self.degree       = "B.E. CSE (AIML) @ Rathinam Technical Campus"
         self.email        = "balachandarm.works@gmail.com"
         self.website      = "balachandar.tech"
+        self.certification= "AWS Certified Cloud Practitioner ☁️"
 
         self.stack = [
             "AWS (EC2, S3, VPC, IAM, CloudWatch, SNS, CloudFront)",
-            "Python", "Bash Scripting", "Boto3", "AWS CLI",
-            "Linux (Ubuntu, RHEL)", "Nmap", "Wireshark", "Git",
+            "Python · Bash Scripting · Boto3 · AWS CLI",
+            "Linux (Ubuntu, RHEL) · Nmap · Wireshark · Git",
         ]
 
         self.currently_learning = [
             "Terraform → Infrastructure as Code",
-            "Docker    → Containerisation basics",
+            "Docker    → Containerisation & Orchestration",
             "AWS SAA   → Solutions Architect Associate",
         ]
 
-        self.fun_fact = "Reduced infra attack surface by 70% with NACLs & SGs 🔐"
+        self.achievements = {
+            "attack_surface_reduction" : "70% via NACLs & Security Groups 🔐",
+            "manual_review_time_saved" : "65% with Bash automation scripts ⚡",
+        }
 
-    def motto(self):
-        return "Build secure. Automate everything. Break nothing."
+    def motto(self) -> str:
+        return "Build secure. Automate everything. Break nothing. 🚀"
 
 me = Balachandar()
 print(me.motto())
@@ -46,81 +56,91 @@ print(me.motto())
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**☁️ Cloud Platforms & Services**
 
-**Cloud Platforms & Services**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-0052CC?style=flat-square&logo=amazonaws&logoColor=white)
+**💻 Languages**
 
-**Automation & DevOps**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=python&logoColor=white)
-![AWS CLI](https://img.shields.io/badge/AWS%20CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**⚙️ Automation & DevOps**
 
-**Security & Networking**
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=python&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS%20CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+**🔒 Security & Networking**
 
-**OS & Tools**
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**🖥️ OS & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubalachandar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubalachandar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mubalachandar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubalachandar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mubalachandar&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mubalachandar&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="60%"/>
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubalachandar&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mubalachandar)
-
----
-
-## 🏆 Trophy Wall
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mubalachandar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubalachandar&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+</p>
 
 ---
 
 ## 💼 Work Experience
 
 <details>
-<summary>☁️ <strong>Cloud Infrastructure & Security Projects</strong> — Self-Directed | 2025 – 2026 | Remote</summary>
+<summary>☁️ <strong>Cloud Infrastructure & Security Projects</strong> — Self-Directed | Nov 2025 – May 2026 | Remote</summary>
 <br/>
 
-> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=python&logoColor=white)
 
-- Architected a multi-tier AWS environment with custom VPC, public/private subnets, Security Groups, and NACLs — **reducing attack surface by 70%** vs default configurations.
-- Built a Python + Boto3 cloud auditing tool scanning for S3 misconfigurations with **real-time SNS alerting**, eliminating manual monitoring overhead.
-- Developed a Bash hardening script on EC2 integrating Nmap port auditing and SSH brute-force detection — **cutting manual review time by 65%**.
-- Analyzed live traffic with Wireshark/tcpdump on EC2 to identify anomalous packets and unencrypted data flows.
+- 🏗️ Architected a multi-tier AWS environment with custom VPC, public/private subnets, Security Groups, and NACLs — **reducing attack surface by 70%** vs default configurations.
+- 🔍 Built a Python + Boto3 cloud auditing tool scanning for S3 misconfigurations and missing encryption with **real-time SNS alerting**, eliminating manual monitoring overhead.
+- 🛡️ Developed a Bash hardening script on EC2 integrating Nmap port auditing and SSH brute-force detection via auth logs — **cutting manual review time by 65%**.
+- 📡 Analyzed live traffic using Wireshark/tcpdump on EC2 to identify anomalous packets and unencrypted data flows across the full infrastructure stack.
 
 </details>
 
@@ -128,10 +148,10 @@ print(me.motto())
 <summary>🔐 <strong>Cybersecurity Analyst Simulation</strong> — Tata (Forage) | Jan 2026 | Remote</summary>
 <br/>
 
-> ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+> ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white) ![Security](https://img.shields.io/badge/Security-000000?style=flat-square&logo=hackthebox&logoColor=white)
 
-- Completed a hands-on simulation focused on **IAM and access control** best practices in an enterprise security context.
-- Applied least-privilege principles and reviewed access policies, mirroring real-world cybersecurity analyst workflows.
+- 🔑 Completed an enterprise-grade simulation focused on **Identity and Access Management (IAM)** and access control best practices.
+- ✅ Applied least-privilege principles and reviewed access policies, mirroring real-world cybersecurity analyst workflows at Tata Consultancy Services.
 
 </details>
 
@@ -139,32 +159,102 @@ print(me.motto())
 
 ## 🚀 Featured Projects
 
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---|:---|:---|
-| [**AWS Cloud Infrastructure Deployment**](https://github.com/mubalachandar) | `AWS` `EC2` `VPC` `IAM` `S3` `NACLs` | Multi-tier VPC with least-privilege IAM; **70% attack surface reduction** |
-| [**Automated AWS Resource Monitor**](https://github.com/mubalachandar) | `Python` `Boto3` `CloudWatch` `SNS` | Misconfiguration scanner with **real-time SNS alerts** via cron |
-| [**Linux Server Hardening + Network Audit**](https://github.com/mubalachandar) | `Bash` `Nmap` `Wireshark` `EC2` | Automated hardening script; **65% reduction** in manual audit time |
+<table align="center">
+  <thead>
+    <tr>
+      <th>🗂️ Project</th>
+      <th>🛠️ Stack</th>
+      <th>✨ Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/mubalachandar"><b>☁️ AWS Cloud Infrastructure Deployment</b></a></td>
+      <td><code>EC2</code> <code>VPC</code> <code>IAM</code> <code>S3</code> <code>NACLs</code></td>
+      <td>Multi-tier VPC + least-privilege IAM · <b>70% attack surface reduction</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mubalachandar"><b>🔍 Automated AWS Resource Monitor</b></a></td>
+      <td><code>Python</code> <code>Boto3</code> <code>CloudWatch</code> <code>SNS</code></td>
+      <td>Misconfiguration scanner · <b>real-time SNS alerts</b> via cron</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mubalachandar"><b>🛡️ Linux Server Hardening + Network Audit</b></a></td>
+      <td><code>Bash</code> <code>Nmap</code> <code>Wireshark</code> <code>EC2</code></td>
+      <td>Full hardening automation · <b>65% reduction</b> in manual audit time</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Certifications
 
-| 🎖️ | Achievement | Details |
-|:---:|:---|:---|
-| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services · Valid Apr 2026 – Apr 2029 |
-| 🎓 | **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services · Jan 2026 |
-| 🔐 | **Cybersecurity Analyst Job Simulation** | Tata (Forage) · IAM & Access Management · Jan 2026 |
-| ⚡ | **IEEE Member** | Institute of Electrical and Electronics Engineers · Dec 2025 |
-| 🏅 | **Rajya Puraskar** | The Bharat Scouts and Guides · Jan 2025 |
+<table align="center">
+  <thead>
+    <tr>
+      <th>🎖️</th>
+      <th>Achievement</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>☁️</td>
+      <td><b>AWS Certified Cloud Practitioner</b></td>
+      <td>Amazon Web Services · Valid Apr 2026 – Apr 2029</td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td><b>AWS Academy Graduate – Cloud Foundations</b></td>
+      <td>Amazon Web Services · Jan 2026</td>
+    </tr>
+    <tr>
+      <td>🔐</td>
+      <td><b>Cybersecurity Analyst Job Simulation</b></td>
+      <td>Tata (Forage) · IAM & Access Management · Jan 2026</td>
+    </tr>
+    <tr>
+      <td>⚡</td>
+      <td><b>IEEE Member</b></td>
+      <td>Institute of Electrical and Electronics Engineers · Dec 2025</td>
+    </tr>
+    <tr>
+      <td>🏅</td>
+      <td><b>Rajya Puraskar</b></td>
+      <td>The Bharat Scouts and Guides · Jan 2025</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🎓 Education
 
-| 📘 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
-|:---|:---|:---:|:---:|
-| B.E. in CSE (AIML) | Rathinam Technical Campus | 2023 – Present | 7.45 / 10 CGPA |
-| Higher Secondary Certificate | SMA Matric Hr Sec School | 2022 – 2023 | 84.3 / 100 |
+<table align="center">
+  <thead>
+    <tr>
+      <th>📘 Degree</th>
+      <th>🏫 Institution</th>
+      <th>📅 Year</th>
+      <th>🎯 Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>B.E. in CSE (AIML)</td>
+      <td>Rathinam Technical Campus</td>
+      <td>2023 – Present</td>
+      <td>7.45 / 10 CGPA</td>
+    </tr>
+    <tr>
+      <td>Higher Secondary Certificate</td>
+      <td>SMA Matric Hr Sec School</td>
+      <td>2022 – 2023</td>
+      <td>84.3 / 100</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -175,20 +265,16 @@ print(me.motto())
 🐳  Docker        →  Containerisation, images, volumes, networking
 ☁️  AWS SAA       →  Solutions Architect Associate prep
 🔒  Cloud Sec     →  GuardDuty, AWS Config, Security Hub
-🐧  Linux Adv     →  Kernel tuning, systemd, cron automation
+🐧  Linux Adv     →  Kernel tuning, systemd, advanced cron automation
 ```
 
 ---
 
-## 🌐 Connect With Me
+<p align="center">
+  <i>⭐ If you find my projects useful, consider giving them a star!</i><br/><br/>
+  <a href="https://linkedin.com/in/m-balachandar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://balachandar.tech"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:balachandarm.works@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-balachandar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://balachandar.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mubalachandar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:balachandarm.works@gmail.com)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling)
