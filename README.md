@@ -11,7 +11,7 @@
   <a href="https://balachandar.tech"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:balachandarm.works@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mubalachandar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mubalachandar&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 </p>
 
 ---
