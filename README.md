@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Balachandar%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS%20Certified%20Cloud%20Engineer%20%7C%20Infrastructure%20%26%20Automation&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Balachandar%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS%20Certified%20Cloud%20Engineer&descAlignY=62&descSize=20)
 
 <div align="center">
 
@@ -11,8 +11,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
 ```python
 class Balachandar:
@@ -43,8 +41,6 @@ class Balachandar:
 me = Balachandar()
 print(me.motto())
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -89,43 +85,27 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Balachandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubalachandar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubalachandar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubalachandar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
-
-</div>
 
 ---
 
 ## 🔥 Streak Stats
 
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=mubalachandar&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubalachandar&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mubalachandar)
-
-</div>
 
 ---
 
 ## 🏆 Trophy Wall
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mubalachandar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mubalachandar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -159,21 +139,15 @@ print(me.motto())
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
 | [**AWS Cloud Infrastructure Deployment**](https://github.com/mubalachandar) | `AWS` `EC2` `VPC` `IAM` `S3` `NACLs` | Multi-tier VPC with least-privilege IAM; **70% attack surface reduction** |
 | [**Automated AWS Resource Monitor**](https://github.com/mubalachandar) | `Python` `Boto3` `CloudWatch` `SNS` | Misconfiguration scanner with **real-time SNS alerts** via cron |
 | [**Linux Server Hardening + Network Audit**](https://github.com/mubalachandar) | `Bash` `Nmap` `Wireshark` `EC2` | Automated hardening script; **65% reduction** in manual audit time |
 
-</div>
-
 ---
 
 ## 🏅 Achievements
-
-<div align="center">
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
@@ -183,20 +157,14 @@ print(me.motto())
 | ⚡ | **IEEE Member** | Institute of Electrical and Electronics Engineers · Dec 2025 |
 | 🏅 | **Rajya Puraskar** | The Bharat Scouts and Guides · Jan 2025 |
 
-</div>
-
 ---
 
 ## 🎓 Education
-
-<div align="center">
 
 | 📘 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
 |:---|:---|:---:|:---:|
 | B.E. in CSE (AIML) | Rathinam Technical Campus | 2023 – Present | 7.45 / 10 CGPA |
 | Higher Secondary Certificate | SMA Matric Hr Sec School | 2022 – 2023 | 84.3 / 100 |
-
-</div>
 
 ---
 
