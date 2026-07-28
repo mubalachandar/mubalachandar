@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Balachandar Muthuselvan
+Hi 👋, I'm Balachandar M
 </h1>
 
 <h3 align="center">
