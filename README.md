@@ -71,10 +71,10 @@ Final-year Computer Science Engineering student specializing in **building produ
 ### 🌟 SecOps AI Copilot — AI-Powered SOC Platform (Completed)
 > *A production-ready platform that replaces traditional, manual SOC triage workflows with real-time, AI-driven automation.*
 
-<!-- Idea 2: SecOps Dashboard Screenshot -->
+<!-- Idea 2: Interactive Product Demo GIF -->
 <div align="center">
   <a href="https://secops-copilot.vercel.app">
-    <img src="assets/secops-dashboard.png" width="800" alt="SecOps AI Copilot Dashboard" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rqb2N6MWc3MndxZXo1aGF5NjNjN3Q3bHJnNHQzNjY3ZmVrbTFweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkO4/giphy.gif" width="600" alt="Dashboard Demo GIF" />
   </a>
 </div>
 
