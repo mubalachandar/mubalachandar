@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Balachandar%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Security%20%E2%80%A2%20AI%20Security%20%E2%80%A2%20Security%20Engineering&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Idea 1: Terminal SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E_python+analyze_candidate.py+--name+%22Balachandar%22;%5B%2B%5D+Loading+Profile...;%5B%2B%5D+Status%3A+Highly+Hireable;%5B%2B%5D+Skills%3A+AI+Security+%7C+AWS+%7C+Threat+Intel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI-powered+Security+Systems+%F0%9F%9B%A1%EF%B8%8F;Cloud+Security+%7C+SOC+Automation+%7C+Threat+Intelligence)](https://git.io/typing-svg)
 
 **[ 💼 LinkedIn ](https://www.linkedin.com/in/m-balachandar/)**
 <br><br>
