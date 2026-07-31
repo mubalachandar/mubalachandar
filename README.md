@@ -5,7 +5,7 @@
 <!-- Idea 1: Terminal SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI-powered+Security+Systems+%F0%9F%9B%A1%EF%B8%8F;Cloud+Security+%7C+SOC+Automation+%7C+Threat+Intelligence)](https://git.io/typing-svg)
 
-**[ 💼 LinkedIn ](https://www.linkedin.com/in/m-balachandar/)**
+**[ 💼 LinkedIn ](https://www.linkedin.com/in/m-balachandar/)** &nbsp; | &nbsp; **[ 🌐 balachandar.tech ](https://balachandar.tech)**
 <br><br>
 
 <!-- Idea 5: 1-Click Hire Me Workflow -->
